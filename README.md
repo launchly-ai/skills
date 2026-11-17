@@ -84,3 +84,7 @@ The key gives access to one workspace. `connect` saves it in a file only you can
 - REST API description: [app.launchly.ai/api/spec.json](https://app.launchly.ai/api/spec.json)
 
 The skill is developed together with the launchly API and copied here on each change.
+
+## Licence
+
+[MIT](LICENSE).
